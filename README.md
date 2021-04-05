@@ -1,4 +1,4 @@
-# Habit Tracker
+# Accomplishments Tracker
 
 Capstone Project
 
